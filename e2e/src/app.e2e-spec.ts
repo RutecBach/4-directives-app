@@ -12,3 +12,5 @@ describe('workspace-project App', () => {
     expect(page.getParagraphText()).toEqual('Welcome to directives-app!');
   });
 });
+
+// testando commit
